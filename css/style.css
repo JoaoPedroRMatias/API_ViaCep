@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container input {
+    padding: 1vh;
+}
+
+
+.container button{
+    padding-left: 2vh;
+    padding-right: 2vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.divDados {
+    margin-top: 2vh;
+    text-align: left;
+    padding: 5vh;
+    border: 1px solid rgb(110, 110, 110);
+    border-radius: 5px;
+}
